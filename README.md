@@ -1,6 +1,6 @@
 Turtle-Island-Start
 ===================
-
+[insert:WELCOMEMESAGE], overview, tools, getstarted, sets/ all-levels/ 
 TcT/ Conception to Creation..Round Table Global Communications. ESS Solutions Mother-Ship Crew.
 Peoples talk /Solutions r found.. we share an Imagine.. what IF/ Dare to dream. 
 This Is TheSory Of One Such Crew That Leaned a Code To Just Do. 
